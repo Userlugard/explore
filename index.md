@@ -1,4 +1,4 @@
 ---
 title: Explore
-redirect_to: /feed.json
+redirect_to: /feed.userlugard
 ---
